@@ -197,7 +197,6 @@
     "skills/blueprint/",
     "skills/brand-voice/",
     "skills/carrier-relationship-management/",
-    "skills/change-impact/",
     "skills/claude-devfleet/",
     "skills/cisco-ios-patterns/",
     "skills/clickhouse-io/",
@@ -206,7 +205,6 @@
     "skills/compose-multiplatform-patterns/",
     "skills/configure-ecc/",
     "skills/contract-first/",
-    "skills/context-and-decisions/",
     "skills/connections-optimizer/",
     "skills/content-engine/",
     "skills/content-hash-cache-pattern/",
@@ -371,7 +369,6 @@
     "skills/springboot-security/",
     "skills/springboot-tdd/",
     "skills/springboot-verification/",
-    "skills/story-lifecycle/",
     "skills/strategic-compact/",
     "skills/swift-actor-persistence/",
     "skills/swift-concurrency-6-2/",
@@ -449,7 +446,6 @@
     "skills/marketing-campaign/",
     "skills/master-agreement-generator/",
     "skills/ml-adoption-playbook/",
-    "skills/module-regression/",
     "skills/motion-advanced/",
     "skills/motion-foundations/",
     "skills/motion-patterns/",
@@ -479,7 +475,6 @@
     "skills/taste-application/",
     "skills/taste-distillation/",
     "skills/tasteforge-video/",
-    "skills/test-collaboration/",
     "skills/tinystruct-patterns/",
     "skills/uncloud/",
     "skills/vite-patterns/",
@@ -572,22 +567,18 @@
     "node": ">=18"
   },
   "overrides": {
-    "fast-uri": "3.1.8",
-    "markdown-it": "14.3.1",
+    "fast-uri": "3.1.7",
+    "markdown-it": "14.3.0",
     "js-yaml": "4.3.2",
     "@humanfs/node": "0.16.8",
-    "brace-expansion": "5.0.12",
-    "katex": "0.18.2",
-    "smol-toml": "1.9.1"
+    "brace-expansion": "5.0.12"
   },
   "resolutions": {
-    "fast-uri": "3.1.8",
-    "markdown-it": "14.3.1",
+    "fast-uri": "3.1.7",
+    "markdown-it": "14.3.0",
     "js-yaml": "4.3.2",
     "@humanfs/node": "0.16.8",
-    "brace-expansion": "5.0.12",
-    "katex": "0.18.2",
-    "smol-toml": "1.9.1"
+    "brace-expansion": "5.0.12"
   },
   "packageManager": "yarn@4.9.2+sha512.1fc009bc09d13cfd0e19efa44cbfc2b9cf6ca61482725eb35bbc5e257e093ebf4130db6dfe15d604ff4b79efd8e1e8e99b25fa7d0a6197c9f9826358d4d65c3c"
 }
