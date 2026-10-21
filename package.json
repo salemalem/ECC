@@ -51,6 +51,7 @@
     "url": "https://github.com/affaan-m/ECC/issues"
   },
   "files": [
+    "skills/example-skill/",
     ".adal/",
     ".agents/",
     ".claude-plugin/",
